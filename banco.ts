@@ -317,7 +317,6 @@ class Poupanca extends Conta {
 }
 */
 
-export {Banco, Cliente, Conta}
 /*
 const itau : Banco = new Banco();
 
